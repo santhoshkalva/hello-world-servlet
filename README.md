@@ -13,5 +13,5 @@ webhook test
 09/04/2020 ---> THURSDAY
 09/05/2020 ----> Friday
 09/06/2020 -- Satday
-09/07/2020 -- sunday
+09/07/2020 -- sun
 
